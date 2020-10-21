@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Erkin Berk Ture Scripting Languages Lecture Homework week 3
 
 In the project directory, you can run:
 
